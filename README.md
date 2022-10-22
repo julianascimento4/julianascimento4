@@ -11,7 +11,7 @@
 </a>
 </div>
 
-<h2 align="left">Linguagens e técnologias com as quais tenho experiência:</23>
+<h2 align="left">Linguagens e tecnologias com as quais tenho experiência:</23>
 
 ###
 <div align="left">
