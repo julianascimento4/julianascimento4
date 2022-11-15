@@ -19,11 +19,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"/>
 </div>
 
-<div align="center">
-  <a href="https://github.com/julianascimento4">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianascimento4&show_icons=true&theme=synthwave&include_all_commit=true&count_private=true&show_owner=true"/>
-    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianascimento4&layout=compact&langs_count=8&theme=synthwave&hide=C#"/>
+<a href="https://github.com/julianascimento4/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=julianascimento4&repo=github-readme-stats" />
 </a>
-</div>
+<a href="https://github.com/julianascimento4/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=julianascimento4&repo=convoychat" />
+</a>
