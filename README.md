@@ -23,7 +23,7 @@
 <div align="center">
   <a href="https://github.com/julianascimento4">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianascimento4&show_icons=true&theme=synthwave&include_all_commit=true&count_private=true&show_owner=true"/>
+  <iimg align="center" src="https://github-readme-stats.vercel.app/api?username=julianascimento4&show_icons=true&theme=synthwave&include_all_commit=true&count_private=true&show_owner=true"/>
     
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianascimento4&layout=compact&langs_count=8&theme=synthwave&hide=C#"/>
 </a>
