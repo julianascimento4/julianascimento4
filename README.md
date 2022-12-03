@@ -4,18 +4,13 @@
 - 📫 Fale comigo: juliavicnas@gmail.com
 - 🖥️ Atuante na área de desenvolvimento web
 
-<h2 align="left">Conecte-se comigo:</h2>
-
-<div align="left"> 
-  <a href="www.linkedin.com/in/júlia-nascimento-126352202"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="56" height="40" alt="linkedin logo" />
-</a>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"/>
 </div>
 
-
-# 💻 Tecnologias:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-
-
-
-
+<div align="center">
+  <a href="https://julianascimento4">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=julianascimento4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianascimento4&layout=compact&langs_count=7&theme=dracula"/>
+</div>
