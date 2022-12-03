@@ -17,6 +17,7 @@ Hello I'm Júlia Nascimento <img src="https://media.giphy.com/media/12oufCB0MyZ1
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 </div>
+
 <br>
 <a href="https://www.instagram.com/juliaa.nas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="http://www.linkedin.com/in/júlia-nascimento-126352202" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
