@@ -11,7 +11,8 @@ Hello I'm Júlia Nascimento <img src="https://media.giphy.com/media/12oufCB0MyZ1
 <br>
 
 
-| <a href="https://github.com/julianascimento4/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=julianascimento4&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/julianascimento4/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianascimento4&layout=compact&theme=buefy&hide_border=true" /></a> 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianascimento4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianascimento4&layout=compact&langs_count=7&theme=dracula"/>
 
 <div style="display: inline_block"><br>
   
