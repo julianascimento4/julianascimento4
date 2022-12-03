@@ -9,10 +9,11 @@ Hello I'm Júlia Nascimento <img src="https://media.giphy.com/media/12oufCB0MyZ1
 - 📫 Fale comigo: juliavicnas@gmail.com
 - 🖥️ Atuante na área de desenvolvimento web
 <br>
-
-
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianascimento4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div align="center">
+  <a href="https://github.com/julianascimento4">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianasimento4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianascimento4&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <div style="display: inline_block"><br>
   
