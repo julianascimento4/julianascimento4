@@ -17,6 +17,7 @@ Hello I'm Júlia Nascimento <img src="https://media.giphy.com/media/12oufCB0MyZ1
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 </div>
+!(https://github-readme-stats.vercel.app/api?username=julianascimnto4&show_icons=true)
 
 <br>
 <a href="https://www.instagram.com/juliaa.nas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
