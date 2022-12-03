@@ -8,7 +8,7 @@ Hello I'm Júlia Nascimento <img src="https://media.giphy.com/media/12oufCB0MyZ1
 - 📚 Cursando Informática
 - 📫 Fale comigo: juliavicnas@gmail.com
 - 🖥️ Atuante na área de desenvolvimento web
-<br>
+
 
 <div style="display: inline_block"><br>
   
