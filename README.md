@@ -19,14 +19,9 @@ Hello I'm Júlia Nascimento <img src="https://media.giphy.com/media/12oufCB0MyZ1
 ##
 
 <div align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianascimento4)](https://github.com/anuraghazra/github-readme-stats)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianascimento4&hide=contribs,prs)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianascimento4&count_private=true)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianascimento4&show_icons=true)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=onedark)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianascimento4&layout=compact)](https://github.com/julianascimento4/github-readme-stats)
- 
-  
+  <a href="https://github.com/julianascimento4">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianascimento4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianascimento4&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <br>
 <div> 
