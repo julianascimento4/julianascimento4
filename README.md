@@ -18,13 +18,9 @@ Hello I'm Júlia Nascimento <img src="https://media.giphy.com/media/12oufCB0MyZ1
 
 ##
  <h3>💻 GitHub Profile Stats</h3>
-
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Julia Nascimento's Github Stats" src="https://julianascimento4-github-readme-stats.vercel.app/api/?username=julianascimento4&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Julia Nascimento's Github Stats" src="https://julianascimento4-github-readme-stats.vercel.app/api/username=julianascimento4&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Júlia Nasimento's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianascimento4&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
-</h2>
 <div display: "flex"><br>
 <h4>Contato: </h4>
 <!-- Linkedin -->
