@@ -17,10 +17,12 @@ Hello I'm Júlia Nascimento <img src="https://media.giphy.com/media/12oufCB0MyZ1
 </div>
 
 ##
-
-  <a href="https://github.com/julianascomento4">
-  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=julianascimento4&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianascimento4&layout=compact&langs_count=7&theme=transparent"/>
+<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=julianascimento4&theme=tokyo-night&hide_border=true">
+<img align="center" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianascimento4&langs_count=8&theme=tokyonight&hide_border=true">
+<div align="center">
+<img height="203px" src="https://github-readme-stats.vercel.app/api?username=julianascimento4&show_icons=true&custom_title=Júlia Nascimento's%20Github%20Stats&theme=tokyonight&hide_border=true">
+<img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=julianascimento4&theme=tokyonight&hide_border=true">
+</div>
   
 
 </h2>
