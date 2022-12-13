@@ -19,7 +19,7 @@ Hello I'm Júlia Nascimento <img src="https://media.giphy.com/media/12oufCB0MyZ1
 ##
 
   <a href="https://github.com/julianascomento4">
-  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=julianascimento4&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=julianascimento4&show_icons=true&theme=transparent&include_all_commits=true"/>
   <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianascimento4&layout=compact&langs_count=7&theme=transparent"/>
   
 
@@ -29,5 +29,5 @@ Hello I'm Júlia Nascimento <img src="https://media.giphy.com/media/12oufCB0MyZ1
 <!-- Linkedin -->
   <a href="https://www.linkedin.com/in/julia-nascimento-126352202/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="vertical-align:top"></a> 
 <!-- instagram -->
-  <a href="https://www.instagram.com/juliaa_nas/" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" style="vertical-align:top"></a>
+  <a href="https://www.instagram.com/juliaa.nas/" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" style="vertical-align:top"></a>
 
