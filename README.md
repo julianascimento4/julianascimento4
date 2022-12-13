@@ -9,7 +9,7 @@ Hello I'm Júlia Nascimento <img src="https://media.giphy.com/media/12oufCB0MyZ1
 - 📫 Fale comigo: juliavicnas@gmail.com
 - 🖥️ Atuante na área de desenvolvimento web
 
-<h2>Linguagens e técnologias com as quais tenho experiência:</h2>
+<h2>Linguagens e tecnologias com as quais tenho experiência:</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"/>
@@ -42,13 +42,7 @@ Hello I'm Júlia Nascimento <img src="https://media.giphy.com/media/12oufCB0MyZ1
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Júlia Nascimento's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=julianascimento4&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  </details>
 
 
-<div>
-<h4>Contato: </h4>
-<!-- Linkedin -->
-  <a href="https://www.linkedin.com/in/julia-nascimento-126352202/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="vertical-align:top"></a> 
-<!-- instagram -->
-  <a href="https://www.instagram.com/juliaa.nas/" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" style="vertical-align:top"></a>
-</div>  
 
