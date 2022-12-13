@@ -17,7 +17,7 @@ Hello I'm Júlia Nascimento <img src="https://media.giphy.com/media/12oufCB0MyZ1
 </div>
 
 ##
-h4>GitHub Statistics:</h4>
+
   <a href="https://github.com/julianascomento4">
   <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=julianascimento4&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianascimento4&layout=compact&langs_count=7&theme=transparent"/>
