@@ -23,8 +23,11 @@ Hello I'm Júlia Nascimento <img src="https://media.giphy.com/media/12oufCB0MyZ1
   <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianascimento4&layout=compact&langs_count=7&theme=transparent"/>
   
 
+</h2>
+<div display: "flex"><br>
+<h4>Contact: </h4>
+<!-- Linkedin -->
+  <a href="https://www.linkedin.com/in/julia-nascimento-126352202/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="vertical-align:top"></a> 
+<!-- instagram -->
+  <a href="https://www.instagram.com/juliaa_nas/" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" style="vertical-align:top"></a>
 
-<div> 
-  <a href="https://www.instagram.com/juliaa.nas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/j%C3%BAlia-nascimento-126352202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
