@@ -25,7 +25,7 @@ Hello I'm Júlia Nascimento <img src="https://media.giphy.com/media/12oufCB0MyZ1
 
 </h2>
 <div display: "flex"><br>
-<h4>Contact: </h4>
+<h4>Contato: </h4>
 <!-- Linkedin -->
   <a href="https://www.linkedin.com/in/julia-nascimento-126352202/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="vertical-align:top"></a> 
 <!-- instagram -->
