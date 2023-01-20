@@ -1,38 +1,44 @@
-<h1 align="center" >I'm Júlia Nascimento <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+Hello I'm Júlia Nascimento <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+</h1>
 
-![cloud](./assets/pixelscapes.gif)
+- 📚 Cursando Informática
+- 📫 Fale comigo: juliavicnas@gmail.com
+- 🖥️ Atuante na área de desenvolvimento web
 
-## 💡 Sobre mim :
+<h2>Linguagens e tecnologias com as quais tenho experiência:</h2>
 
-- _Me chamo Júlia Nascimento e sou do Ceará_
-
-- _Cursando Informática_
-
-- _Apaixonada por Desenvolvimento Web, em especial por Front End 💙_
-
-- _Sempre campartilhando conhecimento_
-
-## 🔮 Minha Stack
-
-Essas são algumas das tecnologias que uso no dia a dia
-
-<div align="center">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"/>     
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"/>
 </div>
 
-## 📈 Estatísticas
+##
 
-<div align="center">
-  <a href="https://github.com/julianascimento4">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianascimento4&layout=compact&langs_count=7&theme=react&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianascimento4&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
-</div>
+<details> 
+  <summary><h2>📊 Github Stats and Activity</h2></summary>
 
-## :speech_balloon: Vamos conversar
+  <h3>🔥 Streak Stats</h3>
 
-Você pode me encontrar em qualquer uma das minhas redes sociais abaixo!
+  <!-- GitHub Readme Streak Stats - https://github.com/julianascimento4/github-readme-streak-stats -->
+  <p>
+    <a href="https://github.com/julianascimento4/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=julianascimento4&theme=monokai-metallian&hide_border=true"/>
+    </a>
+    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+  </p>
 
-<div align="center">
- <a href="https://github.com/julianascimento4"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>  <a href="https://instagram.com/juliaa.nas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>    <a href="mailto:juliavicnas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ff9800?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  <a href="www.linkedin.com/in/julianascimento4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+  <h3>💻 GitHub Profile Stats</h3>
+
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Júlia Nascimento's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=julianascimento4&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Júlia Nascimento's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianascimento4&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+<br/>
+
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Júlia Nascimento's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=julianascimento4&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+  </details>
