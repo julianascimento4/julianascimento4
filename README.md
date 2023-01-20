@@ -16,21 +16,29 @@ Hello I'm Júlia Nascimento <img src="https://media.giphy.com/media/12oufCB0MyZ1
 
 ##
 
-<h2 align="center">
-  <detalhes abertos>
-    <resumo>📈 <i>Ａｔｉｖｉｄａｄｅ</i></summary>  
-    <br/>
-    <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=julianascimento4&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=julianascimento4%20Contribution%20Graph&cache_seconds=7200" />
-    <br/><br/>
-    <img align="left" height="415px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=julianascimento4&langs_count=8&theme=tokyonight&hide_border=true&custom_title=julianascimento4%20Top %20Langs&cache_seconds=7200" />
-    <div align="right">
-      <img height="203px" src="https://luk4x-github-readme-stats.vercel.app/api?username=julianascimento4&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=julianascimento4%20Github%20Stats&cache_seconds=7200" />
-      <img height="203px" src="https://streak-stats.demolab.com?user=julianascimento4&theme=tokyonight&hide_border=true&cache_seconds=7200" />
-    </div>
-    <br/>
-    <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/wakatime?username=julianascimento4&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=7200&api_domain=wakapi.dev&custom_title=julianascimento4%20Coding% 20 Horas" />
-  </detalhes>
-<br>
+<details> 
+  <summary><h2>📊 Github Stats and Activity</h2></summary>
 
-<img src="https://user-images.githubusercontent.com/86276393/202559929-a3048637-3de9-4b82-a61e-537a32de50fe.jpg" alt="waifu" height="40px" />
-<img src="https://img.shields.io/github/license/julianascimento4/julianascimento4?style=for-the-badge&logo=unlicense&logoColor=lightgrey&color=70A5FD" alt="luk4x repo license" height="40px" / >
+  <h3>🔥 Streak Stats</h3>
+
+  <!-- GitHub Readme Streak Stats - https://github.com/julianascimento4/github-readme-streak-stats -->
+  <p>
+    <a href="https://github.com/julianascimento4/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=julianascimento4&theme=monokai-metallian&hide_border=true"/>
+    </a>
+    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+  </p>
+
+  <h3>💻 GitHub Profile Stats</h3>
+
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Júlia Nascimento's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=julianascimento4&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Júlia Nascimento's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianascimento4&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+<br/>
+
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Júlia Nascimento's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=julianascimento4&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+  </details>
