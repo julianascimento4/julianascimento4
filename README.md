@@ -7,37 +7,15 @@ Hello I'm Júlia Nascimento <img src="https://media.giphy.com/media/12oufCB0MyZ1
 - 📫 Fale comigo: juliavicnas@gmail.com
 - 🖥️ Atuante na área de desenvolvimento web
 
-<h2>Linguagens e tecnologias com as quais tenho experiência:</h2>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"/>
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/juliaa.nas/?next=%2F) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/julianascimento4/) 
 
-##
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=julianascimento4&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=julianascimento4&theme=nightowl&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=julianascimento4&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-<details> 
-  <summary><h2>📊 Github Stats and Activity</h2></summary>
-
-  <h3>🔥 Streak Stats</h3>
-
-  <!-- GitHub Readme Streak Stats - https://github.com/julianascimento4/github-readme-streak-stats -->
-  <p>
-    <a href="https://github.com/julianascimento4/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=julianascimento4&theme=monokai-metallian&hide_border=true"/>
-    </a>
-  </p>
-
-  <h3>💻 GitHub Profile Stats</h3>
-
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Júlia Nascimento's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=julianascimento4&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Júlia Nascimento's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianascimento4&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-<br/>
-
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Júlia Nascimento's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=julianascimento4&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-  </details>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
